@@ -1,5 +1,8 @@
 # 📊 Regression Analysis: Workload vs Mental Health in University Students  
 
+<!--Implemented an end-to-end heart disease prediction system using Logistic Regression with automated data loading, EDA, and hyperparameter optimization. Achieved 85% accuracy on test data with strong F1-scores (~0.87), confirming chest pain type and maximum heart rate as dominant clinical indicators.
+-->
+
 ## 📌 Introduction  
 In this project, we collected data from over **200+ university students** and prepared both **simple linear** and **multiple linear regression models**.  
 Our goal was to identify relationships between the features of our survey and visualize them effectively.  
